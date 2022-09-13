@@ -1,0 +1,3 @@
+forward	reverse	tm_fr	tm_rv	tandem_rate_fr	tandem_rate_rv	inter_com	self_com_fr	self_com_rv	pd_similarity	CG_F	CG_R	start	end	length
+GTCCCCGGCTGCGGCTCCCA	GTACGGTCGTTGAAAGTGGC	72	62	20.00	15.00	35.00	0.00	20.00	0.96	0.8	0.55	25	228	203
+TTCAATGGACAGCTCCATCT	GTACGGTCGTTGAAAGTGGC	58	62	10.00	15.00	30.00	10.00	20.00	0.96	0.45	0.55	3	228	225
